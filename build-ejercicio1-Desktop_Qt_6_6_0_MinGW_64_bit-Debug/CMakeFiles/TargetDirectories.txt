@@ -1,0 +1,7 @@
+C:/Users/jfco/Documents/ejqt/build-ejercicio1-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/ejercicio1.dir
+C:/Users/jfco/Documents/ejqt/build-ejercicio1-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/jfco/Documents/ejqt/build-ejercicio1-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jfco/Documents/ejqt/build-ejercicio1-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/jfco/Documents/ejqt/build-ejercicio1-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/jfco/Documents/ejqt/build-ejercicio1-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/jfco/Documents/ejqt/build-ejercicio1-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
